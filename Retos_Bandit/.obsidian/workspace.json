@@ -126,9 +126,118 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1844445ca4f0a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 22 al 23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "462443401462ec29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 23 al 24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a82cb0c0c7786d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 24 al 25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "207567d8caebb04a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 25 al 26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e4e87bc35f717b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 26 al 27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b0f6499a05a698d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos para git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bb0bdfd8d9e2c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e93afe66d9839e3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "59ba4106c9cc0dab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -194,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 21 - 22.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 21 - 22.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 21 - 22.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -255,16 +364,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e00febf707bb23ff",
+  "active": "59ba4106c9cc0dab",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "picoCTF/plantilla 1.md",
+    "plantilla.md",
+    "Untitled.md",
+    "Comandos para git.md",
+    "picoCTF",
+    "Level 27 al 28.md",
+    "Level 26 al 27.md",
+    "Level 25 al 26.md",
+    "Level 24 al 25.md",
+    "Level 23 al 24.md",
+    "Level 22 al 23.md",
+    "Level 21 - 22.md",
+    "Level 15 al 16.md",
     "Level 20 - 21.md",
     "Level 19 - 20.md",
     "Level 18 - 19.md",
-    "Level 15 al 16.md",
     "Level 17 - 18.md",
     "Level 16 - 17.md",
-    "Level 21 - 22.md",
-    "plantilla.md",
     "Level 14 al 15.md",
     "Level 13 al 14.md",
     "Level 12 al 13.md",
