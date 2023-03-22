@@ -123,6 +123,7 @@ z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 bandit6@bandit:~$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |2|son los errores y hay que quitarlos mandandolos a /dev/null|
 |-user|Especifica el usuario|
 |-group|Especifica el grupo|

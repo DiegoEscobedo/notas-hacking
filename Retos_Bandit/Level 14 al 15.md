@@ -13,5 +13,6 @@ Correct! jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 bandit14@bandit:~$
 ## Notas Adicionales
 | comando | descripcion |
+|-------|-----------|
 | nc (NetCat) | **permite acceder a puertos TCP o UDP de la propia máquina o de otras máquinas remotas**. También permite quedar a la escucha en un puerto dado |
 ## Referencias

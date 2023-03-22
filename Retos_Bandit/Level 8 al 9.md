@@ -10,6 +10,7 @@ EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 bandit8@bandit:~$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |sort|ordena los datos|
 |uniq -u|muestra el dato que es unico o sale 1 vez|
 (|)--> le manda la salida de el comando anterior para que el sig comando la procese

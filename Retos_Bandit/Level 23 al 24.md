@@ -15,5 +15,6 @@ VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
 bandit23@bandit:/tmp/kd$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |xxx|xxx|
 ## Referencias

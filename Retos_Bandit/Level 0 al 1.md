@@ -12,6 +12,7 @@ bandit0@bandit:~$
 
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |cat|muestra el contenido de un archivo|
 
 ## Referencias

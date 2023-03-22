@@ -17,5 +17,6 @@ bandit26@bandit:~$ exit
 q
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |xxx|xxx|
 ## Referencias

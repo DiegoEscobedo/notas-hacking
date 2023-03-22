@@ -19,6 +19,7 @@ rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 bandit1@bandit:~$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |cat ./|para archivos que empiecen con guion|
 ## Referencias
 https://www.google.com/search?q=dashed+filename

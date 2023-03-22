@@ -31,6 +31,7 @@ bandit4@bandit:~/inhere$ cat ./-file07
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR 
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |file|indica el tipo de archivo|
 |*|indica todos|
 

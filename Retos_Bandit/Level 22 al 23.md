@@ -62,6 +62,7 @@ QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
 bandit22@bandit:~$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |$|variable|
 |cron|son archivos que se ejecutan|
 ## Referencias

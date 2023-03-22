@@ -19,6 +19,7 @@ bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |ssh -i |identity_file|
 ## Referencias
 https://help.ubuntu.com/community/SSH/OpenSSH/Keys

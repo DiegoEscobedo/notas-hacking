@@ -123,5 +123,6 @@ bandit25@bandit:~$ exit
 logout
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |more|muestra un archivo segun el tamaño de la panatalla|
 ## Referencias

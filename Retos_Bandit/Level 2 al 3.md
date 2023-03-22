@@ -17,5 +17,6 @@ bandit2@bandit:~$ cat "spaces in this filename" aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 bandit2@bandit:~$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |cat|lee un archivo y lo muestra|
 ## Referencias

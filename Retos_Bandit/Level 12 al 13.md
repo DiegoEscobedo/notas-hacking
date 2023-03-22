@@ -29,6 +29,7 @@ bandit12@bandit:~$ xxd -r data.txt | zcat | bzcat | zcat | tar xO | tar xO | bzc
 bandit12@bandit:~$ xxd -r data.txt | zcat | bzcat | zcat | tar xO | tar xO | bzcat | tar xO | zcat The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |xxd -r|revierte un vaciado hexadecimal|
 ## Referencias
 https://en.wikipedia.org/wiki/Hex_dump

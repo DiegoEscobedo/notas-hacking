@@ -27,6 +27,7 @@ P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 bandit5@bandit:~/inhere$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |find|busca practicamente lo que sea|
 |-readable|archivos leibles por humanos|
 |-type|indica el tipo de archivo|

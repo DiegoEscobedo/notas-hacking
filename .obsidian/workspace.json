@@ -8,51 +8,115 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34233a8dfdc65aba",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "5bc53e39615fee77",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "290096735ba41026",
+            "id": "478f75299fd6719e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_Bandit/Level 0.md",
+                "file": "picoCTF/GeneralSkillsBeginner2022/1_runme.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e57644089c48082a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/GeneralSkillsBeginner2022/2_convertme.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73db32b45cbdde54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/GeneralSkillsBeginner2022/3_Codebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad5326a4a08759cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/GeneralSkillsBeginner2022/4_fixme1.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8613c2eb0f7b01c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/GeneralSkillsBeginner2022/5_fixme2.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d04619f945573005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/GeneralSkillsBeginner2022/6_Glitch Cat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dda86782bc3d688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/GeneralSkillsBeginner2022/7_PW Crack 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33123ea6fac17420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/GeneralSkillsBeginner2022/8_PW Crack 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d884485655746c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos_Bandit/Comandos para git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -98,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_Bandit/Level 0.md",
+                "file": "Retos_Bandit/Comandos para git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_Bandit/Level 0.md",
+                "file": "Retos_Bandit/Comandos para git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_Bandit/Level 0.md"
+                "file": "Retos_Bandit/Comandos para git.md"
               }
             }
           }
@@ -181,11 +244,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "be86548daf2c384d",
+  "active": "d884485655746c7e",
   "lastOpenFiles": [
-    "Retos_Bandit/plantilla.md",
     "README.md",
-    "Retos_Bandit/Level 0.md",
+    "picoCTF/GeneralSkillsBeginner2022/9_PW Crack 3.md",
+    "picoCTF/GeneralSkillsBeginner2022",
+    "picoCTF/plantilla 1.md",
+    "picoCTF/GeneralSkillsBeginner2022/8_PW Crack 2.md",
+    "picoCTF/GeneralSkillsBeginner2022/7_PW Crack 1.md",
+    "picoCTF/GeneralSkillsBeginner2022/6_Glitch Cat.md",
+    "picoCTF/GeneralSkillsBeginner2022/5_fixme2.py.md",
+    "picoCTF/GeneralSkillsBeginner2022/4_fixme1.py.md",
+    "picoCTF/GeneralSkillsBeginner2022/3_Codebook.md",
+    "picoCTF/GeneralSkillsBeginner2022/2_convertme.py.md",
+    "picoCTF/GeneralSkillsBeginner2022/1_runme.py.md",
+    "picoCTF/GeneralSkills2021/6_MagikarpGroundMission.md",
+    "picoCTF/GeneralSkills2021",
+    "picoCTF/GeneralSkills2021/5_Tab, Tab, Attack.md",
+    "picoCTF/GeneralSkills2021/3_NiceNetcat.md",
+    "picoCTF/GeneralSkills2021/2_WaveAFlag.md",
+    "picoCTF/GeneralSkills2021/1_ObedientCat.md",
+    "picoCTF/GeneralSkills2021/4_Static ain't always noise.md",
+    "picoCTF/GeneralSkills2019/8_Based.md",
+    "picoCTF/GeneralSkills2019",
+    "picoCTF/GeneralSkills2019/9_Plumbing.md",
+    "picoCTF/GeneralSkills2019/7_First Grep.md",
+    "picoCTF/GeneralSkills2019/6_Bases.md",
+    "picoCTF/GeneralSkills2019/5_strings it.md",
+    "picoCTF/GeneralSkills2019/4_what´s a net cat.md",
+    "picoCTF/webExplotation/10_JaWT Scratchpad.md",
+    "picoCTF/webExplotation/7_Irish-Name-Repo 1.md",
+    "picoCTF/webExplotation/8_Irish-Name-Repo 2.md",
+    "picoCTF/webExplotation",
     "Untitled.canvas"
   ]
 }

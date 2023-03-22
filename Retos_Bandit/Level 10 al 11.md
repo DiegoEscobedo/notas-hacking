@@ -28,6 +28,7 @@ The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 bandit10@bandit:~$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |base64|desencripta los archivos que esten en base 64(rar,zip,etc.)|
 ## Referencias
 https://en.wikipedia.org/wiki/Base64

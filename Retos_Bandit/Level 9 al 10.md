@@ -25,5 +25,6 @@ n.E========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 bandit9@bandit:~$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |string|regresa solo las cadenas|
 ## Referencias

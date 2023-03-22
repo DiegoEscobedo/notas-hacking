@@ -135,5 +135,6 @@ closed
 bandit15@bandit:~$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |xxx|xxx|
 ## Referencias

@@ -4,240 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "eca9264f49826529",
+        "id": "4970867ed9fe3491",
         "type": "tabs",
         "children": [
           {
-            "id": "3f094f1b62210e75",
+            "id": "a493e285d6474538",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 13 al 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6f74404453a42fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 14 al 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0914cc942c36db81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos para git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d92e059e0e569b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 15 al 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b47d661007f0c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 16 - 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8ec622a19361013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 17 - 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "903652a8c3427f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 21 - 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df750b8b18d0a82c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 19 - 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "888984737b7369c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 20 - 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e00febf707bb23ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 21 - 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1844445ca4f0a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 22 al 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "462443401462ec29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 23 al 24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a82cb0c0c7786d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 24 al 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "207567d8caebb04a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 25 al 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e4e87bc35f717b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 26 al 27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0f6499a05a698d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos para git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bb0bdfd8d9e2c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e93afe66d9839e3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "59ba4106c9cc0dab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -364,34 +138,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "59ba4106c9cc0dab",
+  "active": "b9c83f6499798ae3",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "2023-03-07.md",
     "Untitled.canvas",
-    "picoCTF/plantilla 1.md",
     "plantilla.md",
-    "Untitled.md",
     "Comandos para git.md",
-    "picoCTF",
-    "Level 27 al 28.md",
     "Level 26 al 27.md",
     "Level 25 al 26.md",
     "Level 24 al 25.md",
     "Level 23 al 24.md",
     "Level 22 al 23.md",
     "Level 21 - 22.md",
-    "Level 15 al 16.md",
     "Level 20 - 21.md",
     "Level 19 - 20.md",
-    "Level 18 - 19.md",
     "Level 17 - 18.md",
     "Level 16 - 17.md",
+    "Level 15 al 16.md",
     "Level 14 al 15.md",
+    "picoCTF/plantilla 1.md",
+    "Untitled",
+    "Untitled.md",
+    "picoCTF",
+    "Level 27 al 28.md",
+    "Level 18 - 19.md",
     "Level 13 al 14.md",
     "Level 12 al 13.md",
     "Level 11 al 12.md",
     "CYBERCHEF.md",
     "Level 10 al 11.md",
-    "Level 9 al 10.md",
-    "Level 5 al 6.md"
+    "Level 9 al 10.md"
   ]
 }

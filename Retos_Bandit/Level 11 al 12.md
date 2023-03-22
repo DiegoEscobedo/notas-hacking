@@ -29,6 +29,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |tr|transforma textos|
 ## Referencias
 https://en.wikipedia.org/wiki/ROT13

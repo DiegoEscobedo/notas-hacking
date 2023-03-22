@@ -20,6 +20,7 @@ bandit3@bandit:~/inhere$ cat .hidden
 bandit3@bandit:~/inhere$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |ls -la|muestra archivos ocultos|
 |cat .hidden|muestra el archivo oculto|
 ## Referencias

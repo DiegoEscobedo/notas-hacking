@@ -10,6 +10,7 @@ bandit7@bandit:~$ grep millionth data.txt
 millionth       TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |wc|xxx|
 |grep|busca algo dentro de un archivo|
 ## Referencias

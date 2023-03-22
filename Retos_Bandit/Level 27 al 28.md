@@ -50,5 +50,6 @@ The password to the next level is: AVanL161y9rsbcJIsFHuw35rjaOM19nR
 bandit27@bandit:/tmp/tmp.wm1aW3K8Ho/repo$
 ## Notas Adicionales
 |comando|descripcion|
+|-------|-----------|
 |xxx|xxx|
 ## Referencias

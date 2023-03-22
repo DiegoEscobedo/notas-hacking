@@ -1,4 +1,5 @@
 {
   "readableLineLength": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "promptDelete": false
 }
