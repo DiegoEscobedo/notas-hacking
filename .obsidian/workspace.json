@@ -4,107 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "922a8b0450b2fbc1",
+        "id": "d3d32c1424832aa8",
         "type": "tabs",
         "children": [
           {
-            "id": "478f75299fd6719e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/GeneralSkillsBeginner2022/1_runme.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e57644089c48082a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/GeneralSkillsBeginner2022/2_convertme.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73db32b45cbdde54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/GeneralSkillsBeginner2022/3_Codebook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad5326a4a08759cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/GeneralSkillsBeginner2022/4_fixme1.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8613c2eb0f7b01c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/GeneralSkillsBeginner2022/5_fixme2.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d04619f945573005",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/GeneralSkillsBeginner2022/6_Glitch Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dda86782bc3d688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/GeneralSkillsBeginner2022/7_PW Crack 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33123ea6fac17420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/GeneralSkillsBeginner2022/8_PW Crack 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d884485655746c7e",
+            "id": "a67ad37e77f6f230",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -115,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,12 +147,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d884485655746c7e",
+  "active": "a67ad37e77f6f230",
   "lastOpenFiles": [
     "README.md",
+    "picoCTF/webExplotation2019/6_client-side-again.md",
+    "picoCTF/webExplotation2019/5_picobrowser.md",
+    "picoCTF/webExplotation2019/4_dont-use-client-side.md",
+    "picoCTF/webExplotation2019/3_logon.md",
+    "picoCTF/webExplotation2019/2_where are the robots.md",
+    "picoCTF/webExplotation2019/1_Inspe3ctor.md",
+    "picoCTF/webExplotation2019/Sccavenger Hunt.md",
+    "picoCTF/webExplotation2019/Cookies.md",
+    "picoCTF/webExplotation2019/GET aHEAD.md",
+    "picoCTF/Forensics/2_c0rrupt.md",
+    "picoCTF/Forensics/1_m00nwalk.md",
+    "picoCTF/Forensics/3_like1000.md",
+    "picoCTF/Forensics/4_shark on wire 2.md",
+    "picoCTF/plantilla 1.md",
+    "picoCTF/pico2023/rotation.md",
+    "picoCTF/Forensics",
+    "picoCTF/pico2023/Permissions.md",
+    "picoCTF/pico2023",
+    "Retos_Bandit/Comandos para git.md",
     "picoCTF/GeneralSkillsBeginner2022/9_PW Crack 3.md",
     "picoCTF/GeneralSkillsBeginner2022",
-    "picoCTF/plantilla 1.md",
     "picoCTF/GeneralSkillsBeginner2022/8_PW Crack 2.md",
     "picoCTF/GeneralSkillsBeginner2022/7_PW Crack 1.md",
     "picoCTF/GeneralSkillsBeginner2022/6_Glitch Cat.md",
@@ -257,25 +178,9 @@
     "picoCTF/GeneralSkillsBeginner2022/4_fixme1.py.md",
     "picoCTF/GeneralSkillsBeginner2022/3_Codebook.md",
     "picoCTF/GeneralSkillsBeginner2022/2_convertme.py.md",
-    "picoCTF/GeneralSkillsBeginner2022/1_runme.py.md",
-    "picoCTF/GeneralSkills2021/6_MagikarpGroundMission.md",
     "picoCTF/GeneralSkills2021",
-    "picoCTF/GeneralSkills2021/5_Tab, Tab, Attack.md",
-    "picoCTF/GeneralSkills2021/3_NiceNetcat.md",
-    "picoCTF/GeneralSkills2021/2_WaveAFlag.md",
-    "picoCTF/GeneralSkills2021/1_ObedientCat.md",
-    "picoCTF/GeneralSkills2021/4_Static ain't always noise.md",
-    "picoCTF/GeneralSkills2019/8_Based.md",
     "picoCTF/GeneralSkills2019",
-    "picoCTF/GeneralSkills2019/9_Plumbing.md",
-    "picoCTF/GeneralSkills2019/7_First Grep.md",
-    "picoCTF/GeneralSkills2019/6_Bases.md",
-    "picoCTF/GeneralSkills2019/5_strings it.md",
-    "picoCTF/GeneralSkills2019/4_what´s a net cat.md",
-    "picoCTF/webExplotation/10_JaWT Scratchpad.md",
-    "picoCTF/webExplotation/7_Irish-Name-Repo 1.md",
-    "picoCTF/webExplotation/8_Irish-Name-Repo 2.md",
-    "picoCTF/webExplotation",
+    "picoCTF/webExplotation2019",
     "Untitled.canvas"
   ]
 }
