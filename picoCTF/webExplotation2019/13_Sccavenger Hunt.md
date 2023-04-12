@@ -13,7 +13,6 @@ Después de leer la descripción, parece que la bandera está escondida en algú
 
 
 ## Bandera
-picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_35844447}
 ## Notas Adicionales
 robots.txt: Un archivo robots.txt le dice a los rastreadores de los motores de búsqueda a qué URL puede acceder el rastreador en su sitio. Esto se usa principalmente para evitar sobrecargar su sitio con solicitudes.
 

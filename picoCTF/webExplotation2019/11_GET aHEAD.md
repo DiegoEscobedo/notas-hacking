@@ -40,7 +40,7 @@ curl -I HEAD -i http://mercury.picoctf.net:53554/index.php
 Y nos regresa la bandera
 
 ## Bandera
-picoCTF{r3j3ct_th3_du4l1ty_775f2530}
+picoCTF{r3j3ct_th3_du4l1ty_cca66bd3}
 
 ## Notas Adicionales
 HTTP request methods

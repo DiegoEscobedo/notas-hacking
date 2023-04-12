@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_Bandit/Comandos para git.md",
+                "file": "picoCTF/webExplotation2019/13_Sccavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_Bandit/Comandos para git.md",
+                "file": "picoCTF/webExplotation2019/13_Sccavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_Bandit/Comandos para git.md",
+                "file": "picoCTF/webExplotation2019/13_Sccavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_Bandit/Comandos para git.md"
+                "file": "picoCTF/webExplotation2019/13_Sccavenger Hunt.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "a67ad37e77f6f230",
   "lastOpenFiles": [
+    "picoCTF/webExplotation2019/12_Cookies.md",
+    "picoCTF/webExplotation2019/11_GET aHEAD.md",
+    "Retos_Bandit/Comandos para git.md",
     "README.md",
     "picoCTF/webExplotation2019/6_client-side-again.md",
     "picoCTF/webExplotation2019/5_picobrowser.md",
@@ -156,9 +159,7 @@
     "picoCTF/webExplotation2019/3_logon.md",
     "picoCTF/webExplotation2019/2_where are the robots.md",
     "picoCTF/webExplotation2019/1_Inspe3ctor.md",
-    "picoCTF/webExplotation2019/Sccavenger Hunt.md",
-    "picoCTF/webExplotation2019/Cookies.md",
-    "picoCTF/webExplotation2019/GET aHEAD.md",
+    "picoCTF/webExplotation2019/13_Sccavenger Hunt.md",
     "picoCTF/Forensics/2_c0rrupt.md",
     "picoCTF/Forensics/1_m00nwalk.md",
     "picoCTF/Forensics/3_like1000.md",
@@ -168,7 +169,6 @@
     "picoCTF/Forensics",
     "picoCTF/pico2023/Permissions.md",
     "picoCTF/pico2023",
-    "Retos_Bandit/Comandos para git.md",
     "picoCTF/GeneralSkillsBeginner2022/9_PW Crack 3.md",
     "picoCTF/GeneralSkillsBeginner2022",
     "picoCTF/GeneralSkillsBeginner2022/8_PW Crack 2.md",
