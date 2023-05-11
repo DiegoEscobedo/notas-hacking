@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3d32c1424832aa8",
+        "id": "98ec618229fb18f8",
         "type": "tabs",
         "children": [
           {
-            "id": "a67ad37e77f6f230",
+            "id": "bc74e7f68345242a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/webExplotation2019/13_Sccavenger Hunt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c32559a6ac7527d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/webExplotation2019/13_Sccavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/webExplotation2019/13_Sccavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "picoCTF/webExplotation2019/13_Sccavenger Hunt.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,40 +147,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a67ad37e77f6f230",
+  "active": "bc74e7f68345242a",
   "lastOpenFiles": [
-    "picoCTF/webExplotation2019/12_Cookies.md",
-    "picoCTF/webExplotation2019/11_GET aHEAD.md",
-    "Retos_Bandit/Comandos para git.md",
-    "README.md",
-    "picoCTF/webExplotation2019/6_client-side-again.md",
-    "picoCTF/webExplotation2019/5_picobrowser.md",
-    "picoCTF/webExplotation2019/4_dont-use-client-side.md",
-    "picoCTF/webExplotation2019/3_logon.md",
-    "picoCTF/webExplotation2019/2_where are the robots.md",
+    "picoCTF/Foreniscs2022/7_St3g0.md",
+    "picoCTF/Foreniscs2022/6_RedactionGoneWrong.md",
+    "picoCTF/Foreniscs2022/5_PacketsPrimer.md",
+    "picoCTF/Foreniscs2022/4_Lookeyhere.md",
+    "picoCTF/Foreniscs2022/3_Enchance.md",
+    "picoCTF/Foreniscs2022",
+    "picoCTF/Forensic-2021/2_Wiresarkdoodooododoo...md",
+    "picoCTF/Forensic-2021/1_information.md",
+    "picoCTF/web-2022/8_SQLDirect.md",
+    "picoCTF/web-2022/9_SQLLite.md",
+    "Pasted image 20230511160503.png",
+    "picoCTF/web-2022/7_RobotoSans.md",
+    "picoCTF/web-2022/6_PowerCookie.md",
+    "picoCTF/web-2022/5_ForbiddenPaths.md",
+    "picoCTF/web-2022/4_SearchSource.md",
+    "picoCTF/web-2022/3_LocalAithority.md",
+    "picoCTF/web-2022/2_InspectHTML.md",
+    "picoCTF/web-2022/1_Includes.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Reversing/1_vault-door-training.md",
+    "picoCTF/Forensic-2021",
+    "picoCTF/web-2022",
+    "picoCTF/Reversing/10_Safe_Opener_2.md",
+    "picoCTF/Reversing/7_NeedForSpeed.md",
     "picoCTF/webExplotation2019/1_Inspe3ctor.md",
-    "picoCTF/webExplotation2019/13_Sccavenger Hunt.md",
-    "picoCTF/Forensics/2_c0rrupt.md",
-    "picoCTF/Forensics/1_m00nwalk.md",
-    "picoCTF/Forensics/3_like1000.md",
-    "picoCTF/Forensics/4_shark on wire 2.md",
-    "picoCTF/plantilla 1.md",
-    "picoCTF/pico2023/rotation.md",
+    "picoCTF/Reversing/2_vault-door-1.md",
+    "picoCTF/Reversing/3_vault-door-3.md",
+    "picoCTF/Crypto/11_Pixelated.md",
+    "picoCTF/Reversing",
+    "picoCTF/Crypto/13_HideToSee.md",
+    "picoCTF/Crypto",
+    "Untitled}",
     "picoCTF/Forensics",
-    "picoCTF/pico2023/Permissions.md",
     "picoCTF/pico2023",
-    "picoCTF/GeneralSkillsBeginner2022/9_PW Crack 3.md",
     "picoCTF/GeneralSkillsBeginner2022",
-    "picoCTF/GeneralSkillsBeginner2022/8_PW Crack 2.md",
-    "picoCTF/GeneralSkillsBeginner2022/7_PW Crack 1.md",
-    "picoCTF/GeneralSkillsBeginner2022/6_Glitch Cat.md",
-    "picoCTF/GeneralSkillsBeginner2022/5_fixme2.py.md",
-    "picoCTF/GeneralSkillsBeginner2022/4_fixme1.py.md",
-    "picoCTF/GeneralSkillsBeginner2022/3_Codebook.md",
-    "picoCTF/GeneralSkillsBeginner2022/2_convertme.py.md",
     "picoCTF/GeneralSkills2021",
-    "picoCTF/GeneralSkills2019",
-    "picoCTF/webExplotation2019",
     "Untitled.canvas"
   ]
 }
