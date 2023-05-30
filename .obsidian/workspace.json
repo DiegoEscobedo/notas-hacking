@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc74e7f68345242a",
+            "id": "bbe19c6575ce97cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/BinExp/2_buffer-overflow-0.md",
+                "file": "picoCTF/BinExp/Picker IV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c98eb9046348058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing/ASCII FTW.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/BinExp/2_buffer-overflow-0.md",
+                "file": "picoCTF/BinExp/Picker IV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/BinExp/2_buffer-overflow-0.md",
+                "file": "picoCTF/BinExp/Picker IV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/BinExp/2_buffer-overflow-0.md"
+                "file": "picoCTF/BinExp/Picker IV.md"
               }
             }
           }
@@ -155,37 +167,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bc74e7f68345242a",
+  "active": "bbe19c6575ce97cb",
   "lastOpenFiles": [
+    "picoCTF/Reversing/ASCII FTW.md",
+    "picoCTF/BinExp/Picker IV.md",
+    "picoCTF/Crypto/Vigenere.md",
+    "picoCTF/Crypto/transposition-trial.md",
+    "picoCTF/Crypto/SRA.md",
+    "picoCTF/Crypto/Mr-Worldwide.md",
+    "picoCTF/Crypto/Flags.md",
+    "picoCTF/BinExp/two-sum.md",
+    "picoCTF/BinExp/Local Target.md",
+    "picoCTF/BinExp/clutter-overflow.md",
+    "picoCTF/Reversing/GDB baby step 2.md",
+    "picoCTF/Reversing/GDB baby step 1.md",
+    "picoCTF/Reversing/Bit-O-Asm-4.md",
+    "picoCTF/Reversing/Bit-O-Asm-3.md",
+    "picoCTF/Reversing/Bit-O-Asm-2.md",
+    "picoCTF/Reversing/Bit-O-Asm-1.md",
+    "picoCTF/Reversing/s",
+    "picoCTF/Crypto/14_ReadMyCert.md",
+    "Retos_Bandit/Comandos para git.md",
+    "Retos_Bandit/plantilla.md",
+    "Pasted image 20230511160503.png",
+    "README.md",
+    "picoCTF/BinExp/2_buffer-overflow-0.md",
     "picoCTF/BinExp/3_buffer-overflow-1.md",
     "picoCTF/BinExp/4_FlagLeak.md",
     "picoCTF/BinExp/5_Stonks.md",
-    "picoCTF/Plantilla.md",
-    "picoCTF/BinExp/2_buffer-overflow-0.md",
     "picoCTF/BinExp/1_basic-file-exploit.md",
     "picoCTF/Untitled.md",
     "picoCTF/BinExp",
-    "picoCTF/Forensics/2_c0rrupt.md",
-    "picoCTF/Forensics/3_like1000.md",
-    "picoCTF/Forensics/4_shark on wire 2.md",
-    "picoCTF/Crypto/14_ReadMyCert.md",
-    "picoCTF/Crypto/13_HideToSee.md",
-    "picoCTF/Crypto/12_basic-mod1.md",
-    "picoCTF/Crypto/11_Pixelated.md",
-    "picoCTF/Crypto/10_MindyourPsandQs.md",
-    "Retos_Bandit/Comandos para git.md",
-    "Pasted image 20230511160503.png",
-    "README.md",
-    "picoCTF/Foreniscs2022/7_St3g0.md",
-    "picoCTF/Foreniscs2022/6_RedactionGoneWrong.md",
-    "picoCTF/Foreniscs2022/5_PacketsPrimer.md",
-    "picoCTF/Foreniscs2022/4_Lookeyhere.md",
-    "picoCTF/Foreniscs2022/3_Enchance.md",
     "picoCTF/Foreniscs2022",
-    "picoCTF/Forensic-2021/2_Wiresarkdoodooododoo...md",
-    "picoCTF/Forensic-2021/1_information.md",
-    "picoCTF/web-2022/8_SQLDirect.md",
-    "picoCTF/web-2022/9_SQLLite.md",
     "picoCTF/Forensic-2021",
     "picoCTF/web-2022",
     "picoCTF/Reversing",
@@ -193,7 +206,6 @@
     "Untitled}",
     "picoCTF/Forensics",
     "picoCTF/pico2023",
-    "picoCTF/GeneralSkillsBeginner2022",
     "Untitled.canvas"
   ]
 }

@@ -6,7 +6,7 @@ git commit -m "first commit"
 
 git branch -M main
 
-git remote add origin git@github.com:DiegoEscobedo/notas-hacking.git
+git remote add origin git@github.com:DiegoEscobedo
 
 git push -u origin main
 
